@@ -1555,55 +1555,6 @@ button, input, select {
   direction: ltr;
 }
 
-/* Saudi Payment Badges */
-.saudi-payments-wrapper {
-  background: #1e293b;
-  border-radius: var(--radius-md);
-  padding: 18px 14px;
-  margin-bottom: 30px;
-  text-align: center;
-}
-
-.payments-title {
-  font-size: 0.88rem;
-  font-weight: 800;
-  color: #f8fafc;
-  margin-bottom: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-}
-
-.payment-badges-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-}
-
-.payment-badge {
-  background: #ffffff;
-  color: #0f172a;
-  padding: 6px 12px;
-  border-radius: 6px;
-  font-weight: 800;
-  font-size: 0.78rem;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.payment-badge.badge-mada { color: #007940; }
-.payment-badge.badge-visa { color: #1a1f71; }
-.payment-badge.badge-master { color: #eb001b; }
-.payment-badge.badge-apple { color: #000000; }
-.payment-badge.badge-stc { color: #4f008c; }
-.payment-badge.badge-tamara { color: #ff5b00; }
-.payment-badge.badge-tabby { color: #00ffbc; background: #0f172a; }
-.payment-badge.badge-cash { color: #0284c7; }
-
 .footer-bottom {
   border-top: 1px solid #1e293b;
   padding: 20px 0;
